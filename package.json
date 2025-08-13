@@ -1,3 +1,5 @@
+// before running this program npm install
+
 {
   "name": "lab-safety-monitor",
   "license": "0BSD",
@@ -10,7 +12,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@react-navigation/native": "^7.1.17",
     "@react-navigation/native-stack": "^7.3.25",
     "@react-navigation/stack": "^7.4.5",
@@ -18,7 +19,6 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "expo": "~53.0.20",
-=======
     "@react-native-community/masked-view": "^0.1.11",
     "@react-native-masked-view/masked-view": "0.3.2",
     "@react-navigation/bottom-tabs": "^7.4.6",
@@ -68,3 +68,4 @@
   "keywords": [],
   "author": ""
 }
+
